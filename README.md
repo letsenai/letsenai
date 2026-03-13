@@ -1,10 +1,10 @@
 <h2> Saluton, mi estas Leticia. 
 </h2>
 
-<img align="right" src="kitty.png" width="300">
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGswYmVtajY4Z2ZybjFscjN6dHNiZTF3ZGE3aXZxanVwOTBpZXM1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sqTFOd3WnyOcHMB9Ta/giphy.gif" width="300">
 
 <p><em>
-Estudante de Desenvolvimento de Sistemas no <b>SENAI</b>
+Estudante de Desenvolvimento de Sistemas no <b>SESI SENAI</b>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
@@ -34,6 +34,10 @@ Estudante de Desenvolvimento de Sistemas no <b>SENAI</b>
 
 <div>
 
+<a href="https://github.com/shyzees">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 <a href="https://www.instagram.com/leticiaxlim/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
@@ -59,4 +63,4 @@ Eles apenas mostram as linguagens mais usadas nos meus repositórios.
 
 ---
 
-♡ Última atualização em 03/03/2026 às 22:25:01
+♡ Última atualização em 13/03/2026 às 08:43
