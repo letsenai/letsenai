@@ -1,66 +1,110 @@
-<h2> Saluton, mi estas Leticia. 
-</h2>
-
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGswYmVtajY4Z2ZybjFscjN6dHNiZTF3ZGE3aXZxanVwOTBpZXM1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sqTFOd3WnyOcHMB9Ta/giphy.gif" width="300">
-
-<p><em>
-Estudante de Desenvolvimento de Sistemas no <b>SESI SENAI</b>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</em></p>
+<div align="center">
+<img 
+  src="Welcome" 
+  alt="Welcome animation" 
+/>
 
 ---
 
-### **<font size="5">↪︎ Sobre mim</font>**
+<h3>Connect with me</h3>
 
-- Interessada em **programação e desenvolvimento web**  
-- Atualmente aprendendo **JavaScript, Java, Python, Design Gráfico e Low code.**
-
----
-
-### ↪︎ Tecnologias
-
-<div>
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img height="30" width="40" src="c.png">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-</div>
-
----
-
-### ↪︎ Redes sociais
-
-<div>
-
-<a href="https://github.com/shyzees">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/leticiaxlim/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="https://br.pinterest.com/shyzzinha/">
-<img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/leticiaxlim/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://open.spotify.com/user/31dp5cdphkev3oxofpywmnxzxnxm">
-<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
-</a>
+[![AboutMe](https://img.shields.io/badge/ABOUT_ME-000000?style=for-the-badge&logo=vercel&logoColor=white)](xxx)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shyzees)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/47999364911?text=Ol%C3%A1%2C%20tudo%20bem%3F%20vim%20pelo%20seu%20Github%21)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiaxlim/)
 
 </div>
 
 ---
 
-NOTA: Os principais idiomas não indicam meu nível de habilidade.  
-Eles apenas mostram as linguagens mais usadas nos meus repositórios.
+<div align="center">
+
+<h2>About me</h2>
+
+Hi, I'm **Leticia**, also known as **Shy** — a back-end developer.
+
+Focused on building clean and efficient systems, currently developing projects and improving my skills in real-world scenarios.
+
+Open to opportunities and collaborations.
+
+<br/>
+
+**Back-End Developer**  
+**Java / JavaScript**  
+**APIs & System Development**  
+**Problem-solving & clean code**
+
+</div>
 
 ---
 
-♡ Última atualização em 13/03/2026 às 08:43
+<div align="center">  
+  
+<h2>Technologies</h2>
+
+<h3>Core Technologies</h3>
+
+![Java](https://img.shields.io/badge/JAVA-000000?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-000000?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=mysql&logoColor=white)
+
+<br/>
+
+
+<h3>Currently Learning</h3>
+
+![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-000000?style=flat&logo=spring&logoColor=white)
+
+
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>Statistics</h2>
+
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <h4>Most Used Languages</h4>
+  <img 
+    src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=shyzees&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8"
+    alt="Top Languages"
+  />
+</td>
+<td width="50%" align="center">
+  <h4>GitHub Stats</h4>
+  <img 
+    src="https://github-readme-stats-two-beta-28.vercel.app/api?username=shyzees&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+    alt="GitHub Stats"
+  />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<h3>Random Dev Quote</h3>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+<h3>Visitor Count</h3>
+
+![](https://komarev.com/ghpvc/?username=shyzees&color=000000&style=flat-square&label=Profile+Views)
+
+---
+
+<sub>✩ From <a href="https://github.com/shyzees">Shyzees</a> with ♡</sub>
+
+</div>
