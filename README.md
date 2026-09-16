@@ -21,7 +21,7 @@
 
 <h2>About me</h2>
 
-Hi, I'm **Leticia**, also known as **Shy** — a back-end developer.
+Hi, I'm **Leticia**, a back-end developer.
 
 Focused on building clean and efficient systems, currently developing projects and improving my skills in real-world scenarios.
 
